@@ -2,7 +2,7 @@
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning Deutsch
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me just write me
+- 📫 How to reach me just write me in twitter @OksanaRepp
 
 <!---
 Toskina2/Toskina2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
